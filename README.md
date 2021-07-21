@@ -1,15 +1,10 @@
 how to run
 
 run
-'''
+```
 pip install requests
 pip install dhooks
-
-'''python main.py
-
-
-
-
-
+python main.py
+```
 
 egg
