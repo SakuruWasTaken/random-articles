@@ -18,5 +18,6 @@ def eatfood():
         final_string = my_string[:index] + my_string[index:] + title
         content = final_string
         hook.send(content=content)
+        print(content)
         time.sleep(int(interval))
 eatfood();
